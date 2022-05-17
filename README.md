@@ -6,6 +6,14 @@
 <a href="https://javarush.ru/users/2583212">
   <img src="https://img.shields.io/badge/-JavaRush-orange?style=for-the-badge&logo=java"/>
   </a>
+  
+## 🛠 Technical Stack
+*   Java language
+*   DataBase: PostgreSQL
+*   Spring Framework, Spring Boot, Spring Data Jpa, Spring Security
+*   Test: JUnit, Mockito
+*   Apache Maven
+*   GitHub/Bitbucket
 
 <p>Since March 2021, I started learning the Java language. He has been active throughout the year.</p>
 <p>In February 2022, I got a 3-month internship at the Sberbank Java School. Successfully passed it. </p>
