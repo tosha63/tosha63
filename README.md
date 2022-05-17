@@ -15,6 +15,7 @@
 *   Apache Maven
 *   GitHub/Bitbucket
 
+## About me
 <p>Since March 2021, I started learning the Java language. He has been active throughout the year.</p>
 <p>In February 2022, I got a 3-month internship at the Sberbank Java School. Successfully passed it. </p>
 <p>Worked with Spring Framework. </p>
