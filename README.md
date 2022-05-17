@@ -3,6 +3,9 @@
 <a href="https://t.me/shtanko_a_o">
 <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
 </a>
+<a href="https://javarush.ru/users/2583212">
+  <img src="https://images.app.goo.gl/ZcYA86n4aW6mVQPx7"/>
+  </a>
 
 <p>Since March 2021, I started learning the Java language. He has been active throughout the year.</p>
 <p>In February 2022, I got a 3-month internship at the Sberbank Java School. Successfully passed it. </p>
