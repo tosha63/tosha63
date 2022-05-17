@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-<img src="https://t.me/shtanko_a_o" alt data-canonical-src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+<a href="https://t.me/shtanko_a_o">
+<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+  </a>
 <!--
 **tosha63/tosha63** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
