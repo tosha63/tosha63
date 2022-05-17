@@ -4,7 +4,7 @@
 <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
 </a>
 <a href="https://javarush.ru/users/2583212">
-  <img src="https://images.app.goo.gl/ZcYA86n4aW6mVQPx7"/>
+  <img src="https://img.shields.io/badge/-JavaRush-orange"/>
   </a>
 
 <p>Since March 2021, I started learning the Java language. He has been active throughout the year.</p>
