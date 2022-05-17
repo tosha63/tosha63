@@ -4,7 +4,7 @@
 <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
 </a>
 
-<p style=color:blue text-align:center>Since March 2021, I started learning the Java language. He has been active throughout the year.</p>
+<p>Since March 2021, I started learning the Java language. He has been active throughout the year.</p>
 <p>In February 2022, I got a 3-month internship at the Sberbank Java School. Successfully passed it. </p>
 <p>Worked with Spring Framework. </p>
 <p>Set up authorization using Spring Security.</p>
