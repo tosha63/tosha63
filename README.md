@@ -14,17 +14,14 @@
 ## 🛠 Technical Stack
 *   Java language
 *   DataBase: PostgreSQL
-*   Spring Framework, Spring Boot, Spring Data Jpa, Spring Security
+*   Spring Framework, Spring Boot, Spring Data, Spring Security
 *   Test: JUnit, Mockito
 *   Apache Maven
 *   GitHub/Bitbucket
 
 ## 🚀 About me
-<p>Since March 2021, I started learning the Java language. He has been active throughout the year.</p>
-<p>In February 2022, I got a 3-month internship at the Sberbank Java School. Successfully passed it. </p>
-<p>Worked with Spring Framework. </p>
-<p>Set up authorization using Spring Security.</p>
-<p>I used PostgreSQL as a database, used Spring Data and Hibernate as the formation and filling of tables.</p>
+<p>I have been learning Java for over a year. Assiduous (the desire to understand the problem and find a solution). </p>
+<p>In my free time, I study the Spring framework and its modules in depth.</p>
 <!--
 **tosha63/tosha63** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
